@@ -25,9 +25,8 @@ The "Random Password Generator" project is a Python-based utility designed to pr
 - Thanks to Python for providing a versatile environment for building efficient command-line applications.
 ## Contact
 - If you have any questions or feedback, feel free to contact the project maintainer:
-- Name: Tabassum
-- E-mail: tabassumkatha56@gmail.com
+- Name: Ashutosh Tripathi
+- E-mail: ashubhaicom564@gmail.com
 ## See Also
-- Website: https://tabassumkatha.000webhostapp.com/
-- LinkedIn: https://www.linkedin.com/in/tabassum-chowdhury-a0b937268/
-- Replit: https://replit.com/@tabassumkatha56
+- LinkedIn: https://www.linkedin.com/in/ashutosh-tripathi-b13756276
+  
